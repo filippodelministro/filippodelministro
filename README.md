@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 I'm Filippo, Computer Engineering Student at University of Pisa.
 - 💻 Interested in Cybersecurity and low-level programming.
-- ✏️ Available for freelance projet or internship.
+- ✏️ Available for freelance project or internship.
 
