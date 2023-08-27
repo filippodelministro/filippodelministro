@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Filippo, master degree student in Cybersecurity at PoliTO.
+I'm Filippo, MSc student in Cybersecurity at PoliTO.
 - 💻 Interested in Cybersecurity and low-level programming.
 - ✏️ Available for freelance project or internship.
 
