@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Filippo, Computer Engineering Student at University of Pisa.
+I'm Filippo, Computer Engineer.
 - 💻 Interested in Cybersecurity and low-level programming.
 - ✏️ Available for freelance project or internship.
 
