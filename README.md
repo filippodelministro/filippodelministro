@@ -1,4 +1,4 @@
-## Hi there, I'm Filippo <!--👋 🖥️ -->
+## Hi there!<!--👋 🖥️ -->
 
 <!--
 **filippodelministro/filippodelministro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I got my bachelor's degree in Computer Engineering at University of Pisa, and now I am master degree student in Cybersecurity at PoliTO
+I'm Filippo, master degree student in Cybersecurity at PoliTO.
 - 💻 Interested in Cybersecurity and low-level programming.
 - ✏️ Available for freelance project or internship.
 
